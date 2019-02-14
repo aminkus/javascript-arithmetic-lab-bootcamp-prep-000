@@ -11,6 +11,6 @@ function divide(a,b) {
   return a/b
 }
 var number = n
-function inc1() {
+function inc1(n) {
   return n + 1
 }
