@@ -1,4 +1,2 @@
-Function add(){
-  return 
-  
-}
+Function add(a,b){
+  return a + b}
